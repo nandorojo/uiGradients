@@ -1058,7 +1058,7 @@ browserslist@^1.3.6, browserslist@^1.5.2, browserslist@^1.7.6:
     caniuse-db "^1.0.30000639"
     electron-to-chromium "^1.2.7"
 
-browserslist@^2.1.3:
+browserslist@^2.1.2, browserslist@^2.1.3:
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-2.1.4.tgz#cc526af4a1312b7d2e05653e56d0c8ab70c0e053"
   dependencies:
@@ -6525,9 +6525,9 @@ vue-analytics@^4.1.2:
   dependencies:
     load-script "^1.0.0"
 
-vue-clipboards@^0.2.6:
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/vue-clipboards/-/vue-clipboards-0.2.6.tgz#2b662c06efd05619c9f45c1f5cbcd024813b0995"
+vue-clipboards@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vue-clipboards/-/vue-clipboards-1.0.0.tgz#60e356dcfd627af9de499ea5c102ac021f8d9adc"
   dependencies:
     clipboard "^1.5.15"
 
