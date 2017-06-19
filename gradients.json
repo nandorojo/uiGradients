@@ -997,5 +997,9 @@
     {
       "name": "Purpink",
       "colors": ["#7F00FF", "#E100FF"]
+    },
+    {
+      "name": "PATOS",
+      "colors": ["#533592", "#41b87a", "#02A6E3"]
     }
 ]
